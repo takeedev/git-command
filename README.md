@@ -21,7 +21,19 @@ git add .
 ```
 
 ## git commit 
-### add file
+### commit file
 ```shell
 git commit -m "message commit"
+```
+
+## git log
+### check log
+```shell
+git log
+```
+
+## git diff
+### check diff
+```shell
+git diff
 ```
