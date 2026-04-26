@@ -53,3 +53,17 @@ git branch
 or
 git branc {new branch}
 ```
+
+## git switch
+### switch branch or switch new branch
+```shell
+git switch
+or
+git switch {new branch}
+```
+
+## git push
+### push to remote
+```shell
+git push
+```
