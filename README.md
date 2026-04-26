@@ -45,3 +45,11 @@ git diff --stageds
 ```shell
 git reverst {hash number}
 ```
+
+## git branch
+### check branch and new branch
+```shell
+git branch
+or
+git branc {new branch}
+```
