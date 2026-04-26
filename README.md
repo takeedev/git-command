@@ -39,3 +39,9 @@ git diff
 or
 git diff --stageds
 ```
+
+## git revert 
+### revert or undo commit
+```shell
+git reverst {hash number}
+```
