@@ -1,5 +1,25 @@
-# git-command
+# git config
+## enable long path
+```shell
+git config --global core.longpaths true
+```
 
+## set username
+```shell
+git config --global user.name "your name"
+```
+
+## set email
+```shell
+git config --global user.email "your mail"
+```
+
+## check config
+```shell
+git config --list
+```
+
+# git-command
 ## git init
 ### add workspace
 ```shell
