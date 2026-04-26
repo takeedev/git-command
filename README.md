@@ -16,12 +16,12 @@ git status
 ### add file
 ```shell
 git add 
-```
-
-## git add
-### add file
-```shell
-git add {file}
 or
 git add .
+```
+
+## git commit 
+### add file
+```shell
+git commit -m "message commit"
 ```
