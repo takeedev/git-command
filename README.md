@@ -36,4 +36,6 @@ git log
 ### check diff
 ```shell
 git diff
+or
+git diff --stageds
 ```
