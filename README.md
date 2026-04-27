@@ -47,9 +47,11 @@ git commit -m "message commit"
 ```
 
 ## git log
-### check log
+### check log or history file 
 ```shell
 git log
+or
+git log -- {full path file name}
 ```
 
 ## git diff
