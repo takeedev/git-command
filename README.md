@@ -47,7 +47,7 @@ git commit -m "message commit"
 ```
 
 ## git log
-### check log or history file 
+### check log or view file history 
 ```shell
 git log
 or
